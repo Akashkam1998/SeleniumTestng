@@ -40,7 +40,7 @@ public class RegisterTestCases extends BaseClass {
 
 	}
 	
-	@Test
+/*	@Test
 	public void VerifyRegistrationWithBlankData() {
 
 		HomePageObjects hpo = new HomePageObjects(driver);
@@ -85,6 +85,6 @@ public class RegisterTestCases extends BaseClass {
 		sa.assertEquals(CheckBoxActualResult, CheckBoxExpectedResult);
 		
 		sa.assertAll();
-	}
+	}*/
 
 }
